@@ -2,7 +2,7 @@
 
 Notes and exercises developed during GFT Start #5 .NET Bootcamp.
 
-<table>
+<table width="236">
   <tr>
     <td><strong>Initial challenges</strong></td>
   </tr>  
@@ -20,7 +20,7 @@ Notes and exercises developed during GFT Start #5 .NET Bootcamp.
   </tr>  
 </table>
 
-<table>
+<table width="236">
   <tr>
     <td><strong>Intermediate challenges</strong></td>
   </tr>  
