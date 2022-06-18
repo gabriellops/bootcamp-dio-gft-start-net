@@ -25,16 +25,6 @@ Notes and exercises developed during GFT Start #5 .NET Bootcamp.
     <td><strong>Intermediate challenges</strong></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/MultiplicacaoSimples.cs" target="_blank" rel="noreferrer">Multiplicação Simples</a></td>
-  </tr>  
-  <tr>
-    <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/CoxinhaDeBueno.cs" target="_blank" rel="noreferrer">Coxinha de Bueno</a></td>
-  </tr>  
-  <tr>
-    <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/Media3.cs" target="_blank" rel="noreferrer">Média 3</a></td>
-  </tr>  
-  <tr>
-    <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/PinkECerebro.cs" target="_blank" rel="noreferrer">Pink e Cérebro</a></td>
     <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/MultiplicacaoSimples.cs">Multiplicação Simples</a></td>
   </tr>  
   <tr>
@@ -45,5 +35,5 @@ Notes and exercises developed during GFT Start #5 .NET Bootcamp.
   </tr>  
   <tr>
     <td><a href="https://github.com/gabriellops/bootcamp-dio-gft-start-net/blob/main/challenges/csharp-intermediate-challenges/PinkECerebro.cs">Pink e Cérebro</a></td>
-  </tr>  
+  </tr>
 </table>
